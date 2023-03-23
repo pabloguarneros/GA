@@ -13,6 +13,11 @@ conda env create -f environment.yaml
 conda activate spatial_coevolution
 ```
 
+## Download The Data
+The data to run algorithm was taken from https://www.kaggle.com/datasets/oddrationale/mnist-in-csv.
+To run the algorithm, download the two files from the Kaggle website: "mnist_test.csv" and "mnist_train.csv".
+Store the files under the "data" directory of this repo.
+
 ## Run
 
 ```bash
