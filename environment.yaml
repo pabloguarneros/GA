@@ -1,0 +1,10 @@
+name: spatial_coevolution
+channels:
+  - defaults
+dependencies:
+  - python=3.10.8
+  - pip=23.0.1
+  - pip:
+    - scikit-learn==1.2.2
+    - matplotlib==3.7.1
+    - pandas==1.5.3
